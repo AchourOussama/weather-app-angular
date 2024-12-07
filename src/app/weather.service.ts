@@ -7,7 +7,9 @@ import { Observable } from 'rxjs';
 })
 export class WeatherService {
 
-  private apiUrl = 'http://localhost:3000/weather';  // Your backend API URL
+  // private apiUrl = 'http://localhost:3000/weather';  // Your backend API URL
+  // Backend in a container 
+  private apiUrl = 'http://weather-app-backend:3000/weather';  // Your backend API URL
 
   constructor(private http: HttpClient) {}
 
