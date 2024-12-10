@@ -9,7 +9,8 @@ export class WeatherService {
 
   // private apiUrl = 'http://localhost:3000/weather';  // Your backend API URL
   // Backend in a container 
-  private apiUrl = 'http://weather-app-backend:3000/weather';  // Your backend API URL
+  // private apiUrl = 'http://weather-app-backend:3000/weather';  // Your backend API URL
+  private apiUrl = 'https://weather-app-backend.azurewebsites.net/weather';  // Prod
 
   constructor(private http: HttpClient) {}
 
