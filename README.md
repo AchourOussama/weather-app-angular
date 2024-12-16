@@ -14,4 +14,4 @@ Check other related repositories :
 
 # Demonstration: 
 
-![Demo](./images/Screenshot%202024-12-16%20at%2011.01.04 PM.png)
+![Demo](./images/demo.png)
