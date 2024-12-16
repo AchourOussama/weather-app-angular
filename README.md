@@ -6,7 +6,7 @@ This repository includes the source code for the Frontend tier of this applicati
 
 # Related repositories : 
 - [Backend (NestJS)](https://github.com/AchourOussama/weather-app-nestjs)
-- [Infrastructure(Azure with Terraform )](https://github.com/AchourOussama/weather-app-infra) 
+- [Infrastructure (Azure with Terraform )](https://github.com/AchourOussama/weather-app-infra) 
 
 # Technologies: 
 - **Angular:** A TypeScript-based single-page web application framework
